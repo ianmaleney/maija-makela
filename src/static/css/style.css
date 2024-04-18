@@ -1,0 +1,147 @@
+html {
+    background-color: hsl(311, 20%, 80%);
+}
+
+body {
+    max-width: 1600px;
+}
+
+/* HOME PAGE */
+body.hp {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 90vh;
+}
+.hp-image {
+    width: 640px;
+    max-width: 94vw;
+}
+.hp nav {
+    padding: 2rem 3vw;
+}
+.hp nav a {
+    margin: 0 25px;
+    text-decoration: none;
+    color: #c2030d;
+    font-size: 2.5rem;
+    font-family: "Jacquarda Bastarda 9 Charted", serif; 
+}
+.hp nav a:hover {
+    text-decoration: underline;
+    color: #d4999c;
+}
+
+/* PAGES */
+.page-nav {
+    padding: 25px 1vw;
+}
+.page-nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #c2030d;
+    font-size: 1.5rem;
+    font-family: "Jacquarda Bastarda 9 Charted", serif; 
+}
+.page-nav a:hover {
+    text-decoration: underline;
+    color: #d4999c;
+}
+.page-nav a:first-child {
+    margin-left: 0;
+}
+.page-container {
+    font-family: "Crimson Text", serif;
+    padding-bottom: 4rem;
+    margin-top: 10vmin;
+}
+.page-container p {
+    max-width: 640px;
+    font-size: 1.3rem;
+    line-height: 1.4;
+    margin: 1rem auto;
+}
+.page-container a {
+    font-family: 'Jacquarda Bastarda 9 Charted', serif;
+    color: #c2030d;
+}
+.page-container a:hover {
+    color: #d4999c;
+}
+.page-container ul {
+    margin: 1rem auto;
+    max-width: 640px;
+}
+.page-container li {
+    margin: 10px 0;
+    font-size: 1.5rem;
+}
+.page img {
+    max-width: 740px;
+    margin: 2rem 0;
+    display: block;
+    mix-blend-mode: luminosity;
+    margin-left: -50px;
+}
+
+/* WORK */
+
+.page-container ul.work-list {
+    list-style: none;
+    padding-left: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 1280px;
+    max-width: 96vw;
+}
+
+.page-container li.listed-work {
+    margin: 2rem;
+    flex: 1 0 25%;
+    border: 1px solid #c2030d;
+    padding: 1rem;
+}
+
+.page-container li.listed-work:has(.work-image) {
+    border: none;
+    padding: 0;
+}
+
+.listed-work a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1 0 33%;
+}
+
+.work-image {
+    max-width: 100%;
+    object-fit: contain;
+    mix-blend-mode: luminosity;
+}
+
+.listed-work a:hover .work-image {
+    mix-blend-mode: unset;
+}
+
+.work-title {
+    font-size: 2.5rem;
+    font-weight: 400;
+    font-family: 'Jacquarda Bastarda 9 Charted', serif;
+    color:#c2030d;
+}
+
+.work-page {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 1400px;
+    margin: 10vmin auto 4rem;
+}
+
+.left, .right {
+    flex: 1 0 40%;
+    padding: 2rem;
+}

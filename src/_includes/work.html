@@ -17,17 +17,19 @@
     <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Jacquarda+Bastarda+9+Charted&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Jacquarda+Bastarda+9+Charted&display=swap" rel="stylesheet">
   </head>
-  <body class="hp">
-    
-    {{ content | safe }}
+<body class="page">
     
     {% include "./partials/navbar.html" %}
-    
-    {% if path == "home" %}
-      <!-- Netlify Identity Widget -->
-      <!-- Needed only if you are using Netlify Identity feature -->
-      <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    {% endif %}
-
-  </body>
+    <div class="page-container work-page">
+        <div class="left">
+            {% if bandcamp %}
+                {{ bandcamp | safe }}
+            {% endif %}
+        </div>
+        <div class="right">
+            <h2 class="work-title">{{title}}</h2>
+            {{ content | safe }}
+        </div>
+    </div>
+</body>
 </html>
