@@ -1,9 +1,11 @@
 ---
 title: About
 layout: page
+tags: page
+permalink: "about/"
 ---
 
-![Just a girl in the woods](/static/img/maija.jpg)
+![Just a girl in the woods](/static/img/maija.jpeg)
 
 Working across music, text, sound and performance, Maija Sofia Mäkelä is an artist and writer from rural Galway, Ireland.
 
