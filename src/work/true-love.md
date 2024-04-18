@@ -10,8 +10,6 @@ date: 2024-04-18T21:08:03.873Z
 tags:
   - Tags
 ---
-![Just a girl in the woods](/static/img/maija.jpeg "Maija Sofia Makela")
-
 *True Love* was written during a period of deep transformation in Maija’s life, when she left the city for the south-west coastline, living in solitude in a 300 year old former-yacht club for several months over the lockdown winter. It was here that Sofia found herself alone and still for the first time in years, in a place where she could finally reflect on the instability and overwhelming love and loss that had shaped her early twenties.
 
 Artwork photography by Anna Heisterkamp and design by Mel Keane.
