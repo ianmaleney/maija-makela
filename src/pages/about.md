@@ -2,8 +2,11 @@
 title: About
 layout: page
 tags: page
-permalink: "about/"
+permalink: about/
 ---
+
+
+![Just a girl in the woods](/static/img/maija.jpeg "Maija Sofia Makela")
 
 Working across music, text, sound and performance, Maija Sofia Mäkelä is an artist and writer from rural Galway, Ireland.
 
@@ -15,9 +18,9 @@ She is a graduate of Trinity College Dublin and a recipient of the Arts Council 
 
 You can find her at:
 
-- [Substack](https://mystes.substack.com/)
-- [Bandcamp](https://maijasofia.bandcamp.com/)
-- [Spotify](https://open.spotify.com/artist/3K68cSs1f8V59zNdfs25dW)
-- [Dublin Digital Radio](https://listen.dublindigitalradio.com/resident/invocations)
+* [Substack](https://mystes.substack.com/)
+* [Bandcamp](https://maijasofia.bandcamp.com/)
+* [Spotify](https://open.spotify.com/artist/3K68cSs1f8V59zNdfs25dW)
+* [Dublin Digital Radio](https://listen.dublindigitalradio.com/resident/invocations)
 
 Contact: maijasofiamusic at gmail dot com
