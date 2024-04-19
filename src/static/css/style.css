@@ -33,24 +33,48 @@ body.hp {
     color: #d4999c;
 }
 
+@media (max-width: 640px) {
+    .hp nav {
+        display: flex;
+    }
+}
+
 /* PAGES */
-.page-nav {
+.page nav {
     padding: 25px 1vw;
 }
-.page-nav a {
+.page nav a {
     margin: 0 15px;
     text-decoration: none;
     color: #c2030d;
     font-size: 1.5rem;
     font-family: "Jacquarda Bastarda 9 Charted", serif; 
 }
-.page-nav a:hover {
+.page nav a:hover {
     text-decoration: underline;
     color: #d4999c;
 }
-.page-nav a:first-child {
+.page nav a:first-child {
     margin-left: 0;
 }
+
+@media (max-width: 800px) {
+    .page nav {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .page nav a:first-child {
+        margin: 0 auto;
+        width: 100%;
+        display: block;
+        text-align: center;
+        flex: 1 0 100%;
+        margin-bottom: 1rem;
+    }
+}
+
+
 .page-container {
     font-family: "Crimson Text", serif;
     padding-bottom: 4rem;
@@ -78,11 +102,23 @@ body.hp {
     font-size: 1.5rem;
 }
 .page img {
-    max-width: 740px;
+    width: 740px;
     margin: 2rem 0;
     display: block;
     mix-blend-mode: luminosity;
     margin-left: -50px;
+}
+
+@media (max-width: 800px) {
+    .page img {
+        margin-left: 0;
+        max-width: 100%;
+    }
+}
+@media (max-width: 600px) {
+    .page-container p {
+        font-size: 1.1rem;
+    }
 }
 
 /* WORK */
@@ -116,10 +152,11 @@ body.hp {
     flex: 1 0 33%;
 }
 
-.work-image {
+img.work-image {
     max-width: 100%;
     object-fit: contain;
     mix-blend-mode: luminosity;
+    margin: 0
 }
 
 .listed-work a:hover .work-image {
@@ -141,7 +178,24 @@ body.hp {
     margin: 10vmin auto 4rem;
 }
 
-.left, .right {
-    flex: 1 0 40%;
-    padding: 2rem;
+@media (max-width: 959px) {
+    .work-page {
+        flex-direction: column-reverse;
+    }
+    .left, .right {
+        max-width: 100%;
+    }
+    .work-title {
+        text-align: center;
+    }
+    .work-page iframe {
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 960px) {
+    .left, .right {
+        flex: 1 0 40%;
+        padding: 2rem;
+    }
 }
