@@ -5,12 +5,28 @@ tags: page
 permalink: "work/"
 ---
 
+<div class="work-wrapper">
+    <div class="work-type">
+        <h2 class="list-title">Music</h2>
+        <ul class="work-list">
+            {% for item in collections.work | getMusic %}
+            <li class="listed-work">
+                <a class="work-title" href="{{ item.data.link }}">{{ item.data.title }}</a>
+                <p class="work-description">{{ item.data.description }}</p>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
 
-<ul class="work-list">
-    {% for item in collections.work %}
-    <li class="listed-work">
-        <a class="work-title" href="{{ item.data.link }}">{{ item.data.title }}</a>
-        <p class="work-description">{{ item.data.description }}</p>
-    </li>
-    {% endfor %}
-</ul>
+    <div class="work-type">
+        <h2 class="list-title">Writing</h2>
+        <ul class="work-list">
+            {% for item in collections.work | getWriting %}
+            <li class="listed-work">
+                <a class="work-title" href="{{ item.data.link }}">{{ item.data.title }}</a>
+                <p class="work-description">{{ item.data.description }}</p>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>

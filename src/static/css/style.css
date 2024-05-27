@@ -123,7 +123,7 @@ body.hp {
 
 /* WORK */
 
-.page-container ul.work-list {
+.page-container ul.album-list {
     list-style: none;
     padding-left: 0;
     display: flex;
@@ -133,44 +133,44 @@ body.hp {
     max-width: 96vw;
 }
 
-.page-container li.listed-work {
+.page-container li.listed-album {
     margin: 2rem;
     flex: 1 0 25%;
     border: 1px solid #c2030d;
     padding: 1rem;
 }
 
-.page-container li.listed-work:has(.work-image) {
+.page-container li.listed-album:has(.album-image) {
     border: none;
     padding: 0;
 }
 
-.listed-work a {
+.listed-album a {
     display: flex;
     flex-direction: column;
     align-items: center;
     flex: 1 0 33%;
 }
 
-img.work-image {
+img.album-image {
     max-width: 100%;
     object-fit: contain;
     mix-blend-mode: luminosity;
     margin: 0
 }
 
-.listed-work a:hover .work-image {
+.listed-album a:hover .album-image {
     mix-blend-mode: unset;
 }
 
-.work-title {
+.album-title {
     font-size: 2.5rem;
     font-weight: 400;
     font-family: 'Jacquarda Bastarda 9 Charted', serif;
     color:#c2030d;
 }
 
-.work-page {
+.album-page {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -178,17 +178,64 @@ img.work-image {
     margin: 10vmin auto 4rem;
 }
 
+.album-page .work-title {
+    font-family: "Jacquard 12", "Crimson Text", serif;
+    font-weight: 400;
+    font-size: 3rem;
+    color: #c2030d;
+}
+
+.work-wrapper {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 10vmin auto 4rem;
+    max-width: 1020px;
+}
+
+.work-type {
+    flex: 1 0 40%;
+    min-width: 300px;
+    margin: 0 30px;
+}
+
+.work-type .list-title {
+    font-family: "Jacquard 12", "Crimson Text", 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 2rem;
+    color: #c2030d;
+    border-bottom: 1px solid;
+}
+
+.work-type .work-list {
+    list-style: circle;
+}
+
+a.work-title {
+    font-family: "Crimson Text", 'Times New Roman', Times, serif;
+    color: black;
+    font-style: italic;
+    font-size: 1.4rem;
+    text-decoration: dotted;
+}
+
+p.work-description {
+    font-size: 1.05rem;
+    margin: 4px 0;
+    color: #a70009;
+}
+
 @media (max-width: 959px) {
-    .work-page {
+    .album-page {
         flex-direction: column-reverse;
     }
     .left, .right {
         max-width: 100%;
     }
-    .work-title {
+    .album-title {
         text-align: center;
     }
-    .work-page iframe {
+    .album-page iframe {
         max-width: 100%;
     }
 }

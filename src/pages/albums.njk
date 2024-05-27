@@ -5,14 +5,14 @@ tags: page
 permalink: "albums/"
 ---
 
-<ul class="work-list">
+<ul class="album-list">
     {% for item in collections.albums %}
-    <li class="listed-work">
+    <li class="listed-album">
         <a href="{{ item.url }}">
             {% if item.data.image %}
-                <img src="/static/img/{{item.data.image}}" class="work-image">
+                <img src="/static/img/{{item.data.image}}" class="album-image">
             {% endif %}
-            <h2 class="work-title">{{ item.data.title }}</h2>
+            <h2 class="album-title">{{ item.data.title }}</h2>
         </a>
     </li>
     {% endfor %}

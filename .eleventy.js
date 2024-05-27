@@ -10,6 +10,14 @@ module.exports = function (eleventyConfig) {
     );
   });
 
+  eleventyConfig.addFilter("getMusic", (workList) => {
+    return workList.filter(w => w.data.tags.includes('Music'))
+  });
+
+  eleventyConfig.addFilter("getWriting", (workList) => {
+    return workList.filter(w => w.data.tags.includes('Writing'))
+  });
+
   // To Support .yaml Extension in _data
   // You may remove this if you can use JSON
   eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
