@@ -24,6 +24,7 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Bandcamp", name: "bandcamp", widget: "string" }
+      - { label: "Image", name: "image", widget: "image" }
   - label: "Work"
     name: "work"
     folder: "src/work"
