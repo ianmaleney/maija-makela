@@ -4,11 +4,9 @@ layout: page
 tags: page
 permalink: about/
 ---
+![Just a girl in the woods](/static/img/maija.jpeg "Maija Mäkelä")
 
-
-![Just a girl in the woods](/static/img/maija.jpeg "Maija Sofia Makela")
-
-Working across music, text, sound and performance, Maija Sofia Mäkelä is an artist and writer from rural Galway, Ireland.
+Working across music, text, sound and performance, Maija Mäkelä is an artist and writer from rural Galway, Ireland.
 
 A highly acclaimed songwriter, she traverses idiosyncratic and lyrical styles of freak-folk and experimental pop. She has released two albums under the name Maija Sofia; *[Bath Time](https://maijasofia.bandcamp.com/album/bath-time)* (Trapped Animal, 2019) which was nominated for the Choice Music Prize; and *[True Love](https://maijasofia.bandcamp.com/album/true-love)* (Tulle Collective, 2023) which was praised as [“enormously talented”](https://www.theguardian.com/culture/2023/dec/20/the-best-european-culture-of-2023) in The Guardian, and in The Quietus as [“a knotty tangle of irresistable earworms... the work of someone with an enviable talent.”](https://thequietus.com/articles/33317-maija-sofia-true-love-review) She has toured extensively as a musician, performing anywhere from DIY art spaces to haunted churches to national Opera houses and concert halls, on her own and opening for artists such as Sharon Van Etten, Julian Baker and Mega Bog.
 
