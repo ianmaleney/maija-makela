@@ -10,7 +10,7 @@ permalink: "albums/"
     <li class="listed-album">
         <a href="{{ item.url }}">
             {% if item.data.image %}
-                <img src="/static/img/{{item.data.image}}" class="album-image">
+                <img src="{{item.data.image}}" class="album-image">
             {% endif %}
             <h2 class="album-title">{{ item.data.title }}</h2>
         </a>
