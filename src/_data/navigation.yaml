@@ -2,5 +2,7 @@
 items:
   - text: Work
     url: "/work"
+  - text: Albums
+    url: "/albums"
   - text: About
     url: "/about"

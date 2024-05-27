@@ -12,6 +12,18 @@ public_folder: "/static/img"
 local_backend: true
 # publish_mode: editorial_workflow
 collections:
+  - label: "Albums"
+    name: "albums"
+    folder: "src/albums"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string", required: false }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Bandcamp", name: "bandcamp", widget: "string" }
   - label: "Work"
     name: "work"
     folder: "src/work"
@@ -22,15 +34,14 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string", required: false }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Bandcamp", name: "bandcamp", widget: "string" }
+      - { label: "Link", name: "link", widget: "string" }
       - widget: select
         label: "tags"
         name: "tags"
-        multiple: true
-        create: true
+        multiple: false
+        create: false
         required: false
-        options: ["Music", "Writing", "Poetry", "Essay", "Fiction", "Album", "Collaboration"]
+        options: ["Music", "Writing"]
   - label: "Pages"
     name: "pages"
     folder: "src/pages"
