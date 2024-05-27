@@ -1,12 +1,12 @@
 ---
 title: True Love
+description: True Love is the second album by Maija Sofia
+date: 2024-04-18T21:08:03.873Z
 bandcamp: '<iframe style="border: 0; width: 640px; height: 1190px;"
   src="https://bandcamp.com/EmbeddedPlayer/album=2811064019/size=large/bgcol=ffffff/linkcol=f171a2/package=3349237822/transparent=true/"
   seamless><a href="https://maijasofia.bandcamp.com/album/true-love">True Love
   by Maija Sofia</a></iframe>'
-image: true-love.jpg
-description: True Love is the second album by Maija Sofia
-date: 2024-04-18T21:08:03.873Z
+image: /static/img/true-love.jpg
 tags:
   - Tags
 ---
