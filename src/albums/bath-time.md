@@ -1,7 +1,10 @@
 ---
 title: Bath Time
 date: 2024-05-27T21:49:36.916Z
-bandcamp: https://maijasofia.bandcamp.com/album/bath-time
+bandcamp: '<iframe style="border: 0; width: 350px; height: 470px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=1222187221/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/"
+  seamless><a href="https://maijasofia.bandcamp.com/album/bath-time">Bath Time
+  by Maija Sofia</a></iframe>'
 image: /static/img/bathtimecover.jpeg
 ---
 Released on Trapped Animal in 2019, Maija Sofia’s debut album *Bath Time* announced her as an accomplished songwriter. One whose unwavering eloquence and conviction, musically and lyrically, sets her apart from her peers. This striking introduction garnered widespread critical acclaim and a coveted Album of the Year nomination at the RTÉ Choice Music Prize. 
