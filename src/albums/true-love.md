@@ -13,13 +13,11 @@ tags:
 \
 *True Love* was written during a period of deep transformation in Maija’s life, when she left the city for the south-west coastline, living in solitude in a 300 year old former-yacht club for several months over the lockdown winter. It was here that Sofia found herself alone and still for the first time in years, in a place where she could finally reflect on the instability and overwhelming love and loss that had shaped her early twenties.
 
-Artwork photography by Anna Heisterkamp and design by Mel Keane.
-
 Evolving through states of reflection, metamorphosis and mysticism, the songs began to take shape as a kind of séance-act, a form of esoteric communication with absent friends, former loves and the various memories and ghosts that hung in the empty space around her.
 
 The resulting album is a work of exorcism and enchantment, presenting a rare blend of eloquent lyrical craft and explorative musicianship with a deep devotion to mystery. The songs on *True Love* ask what happens when you devote yourself entirely to something or someone else, what happens when we risk love, and when that love goes all the way wrong, how can we make sense of the chaos left in its wake?
 
-
+Artwork photography by Anna Heisterkamp and design by Mel Keane.
 
 *STRANGE AND MYTHIC...T﻿HE WORK OF SOMEONE WITH AN ENVIABLE TALENT*
 
