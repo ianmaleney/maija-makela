@@ -36,6 +36,11 @@ body.hp {
 @media (max-width: 640px) {
     .hp nav {
         display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .hp nav a {
+        margin: 25px;
     }
 }
 
