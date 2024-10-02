@@ -21,7 +21,7 @@ permalink: "work/"
     <div class="work-type">
         <h2 class="list-title">Writing</h2>
         <ul class="work-list">
-            {% for item in collections.work | getWriting %}
+            {% for item in collections.work | getWriting | reverse %}
             <li class="listed-work">
                 <a class="work-title" href="{{ item.data.link }}">{{ item.data.title }}</a>
                 <p class="work-description">{{ item.data.description }}</p>
