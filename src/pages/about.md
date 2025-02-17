@@ -20,6 +20,7 @@ Find her at:
 
 * [Substack](https://mystes.substack.com/)
 * [Bandcamp](https://maijasofia.bandcamp.com/)
+* [A﻿ Glittering Web](https://www.are.na/maija-sofia/a-glittering-web)
 * [Dublin Digital Radio](https://listen.dublindigitalradio.com/resident/invocations)
 
 (I am available for commissions and always interested in hearing about potential projects and collaborations.)
