@@ -6,24 +6,26 @@ permalink: about/
 ---
 ![Just a girl in the woods](/static/img/maija.jpeg "Maija Mäkelä")
 
-Maija Makela is a writer, musician and artist from Galway, Ireland. 
+My name is Maija Makela, I am a writer, musician and researcher from Galway, Ireland. 
 
-She has released two albums: *True Love* (Tulle, 2023) and *Bath Time* (Trapped Animal, 2019.)
+I have released two records: *True Love* (Tulle, 2023) and *Bath Time* (Trapped Animal, 2019, shortlisted for the RTE Choice Award.) I have toured internationally and have been commissioned to write new music for various visual art exhibitions, films and festivals. 
 
-Her poetry, criticism, and non-fiction has appeared in various publications, including *The Stinging Fly, Poetry Ireland Review, Banshee, The Irish Times* and elsewhere. 
+My poetry and non-fiction has appeared in various publications, including *The Stinging Fly, Poetry Ireland Review, Banshee, Berlin Lit, The Irish Times* and elsewhere. I also write frequent criticism on books and music and have worked as a copywriter for various creative projects. I am currently working on a novel.
 
-She is assistant editor of [fallow](https://fallowmedia.com/) and is a PhD candidate at Trinity College Dublin where she is writing about the work of Fanny Howe. She is working on a novel and a first collection of poetry. 
+I am assistant editor of [fallow](https://fallowmedia.com/) and a PhD candidate at Trinity College Dublin where I’m writing about the work of Fanny Howe. 
 
-Full CV available upon request.
+Full CV / bio available upon request.
+
+(I am available for commissions and always interested in hearing about potential projects and collaborations.) 
 
 \
-Find her at:
+Find me at:
 
 * [Substack](https://mystes.substack.com/)
 * [Bandcamp](https://maijasofia.bandcamp.com/)
 * [A﻿ Glittering Web](https://www.are.na/maija-sofia/a-glittering-web)
 * [Dublin Digital Radio](https://listen.dublindigitalradio.com/resident/invocations)
 
-(I am available for commissions and always interested in hearing about potential projects and collaborations.)
+
 
 C﻿ontact: makelamm at tcd dot ie
