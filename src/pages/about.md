@@ -12,8 +12,6 @@ I have released two records: *True Love* (Tulle, 2023) and *Bath Time* (Trapped 
 
 My poetry and non-fiction has appeared in various publications, including *The Stinging Fly, Poetry Ireland Review, Banshee, Berlin Lit, The Irish Times* and elsewhere. I also write frequent criticism on books and music and have worked as a copywriter for various creative projects. I am currently working on a novel.
 
-I am assistant editor of [fallow](https://fallowmedia.com/) and a PhD candidate at Trinity College Dublin where I’m writing about the work of Fanny Howe. 
-
 Full CV / bio available upon request.
 
 (I am available for commissions and always interested in hearing about potential projects and collaborations.) 
