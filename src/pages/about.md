@@ -26,6 +26,6 @@ Find me at:
 * [A﻿ Glittering Web](https://www.are.na/maija-sofia/a-glittering-web)
 * [Dublin Digital Radio](https://listen.dublindigitalradio.com/resident/invocations)
 
-
-
 C﻿ontact: makelamm at tcd dot ie
+
+s﻿upported by Cork County Arts Office
