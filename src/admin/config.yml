@@ -14,7 +14,7 @@ local_backend: true
 collections:
   - label: "Albums"
     name: "albums"
-    folder: "src/albums"
+    folder: "src/music"
     create: true
     editor:
       preview: false
@@ -25,9 +25,9 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Bandcamp", name: "bandcamp", widget: "string" }
       - { label: "Image", name: "image", widget: "image" }
-  - label: "Work"
-    name: "work"
-    folder: "src/work"
+  - label: "Writing"
+    name: "writing"
+    folder: "src/writing"
     create: true
     editor:
       preview: false
@@ -42,7 +42,7 @@ collections:
         multiple: false
         create: false
         required: false
-        options: ["Music", "Writing"]
+        options: ["Music", "Poetry", "Essays"]
   - label: "Pages"
     name: "pages"
     folder: "src/pages"

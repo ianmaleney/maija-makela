@@ -1,15 +1,15 @@
 ---
-title: Work
+title: Writing
 layout: page
 tags: page
-permalink: "work/"
+permalink: "writing/"
 ---
 
 <div class="work-wrapper">
     <div class="work-type">
-        <h2 class="list-title">Music</h2>
+        <h2 class="list-title">Poetry</h2>
         <ul class="work-list">
-            {% for item in collections.work | getMusic %}
+            {% for item in collections.writing | getPoems | reverse %}
             <li class="listed-work">
                 <a class="work-title" href="{{ item.data.link }}">{{ item.data.title }}</a>
                 <p class="work-description">{{ item.data.description }}</p>
@@ -19,9 +19,9 @@ permalink: "work/"
     </div>
 
     <div class="work-type">
-        <h2 class="list-title">Writing</h2>
+        <h2 class="list-title">Essays & Criticism</h2>
         <ul class="work-list">
-            {% for item in collections.work | getWriting | reverse %}
+            {% for item in collections.writing | getNF | reverse %}
             <li class="listed-work">
                 <a class="work-title" href="{{ item.data.link }}">{{ item.data.title }}</a>
                 <p class="work-description">{{ item.data.description }}</p>

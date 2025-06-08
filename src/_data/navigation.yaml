@@ -1,8 +1,8 @@
 ---
 items:
-  - text: Work
-    url: "/work"
-  - text: Albums
-    url: "/albums"
+  - text: Writing
+    url: "/writing"
+  - text: Music
+    url: "/music"
   - text: About
     url: "/about"
