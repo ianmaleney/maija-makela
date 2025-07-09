@@ -8,9 +8,11 @@ permalink: about/
 
 My name is Maija Makela, I am a writer, musician and researcher from Galway, Ireland. 
 
+My poetry and non-fiction has appeared in various publications, including *The Stinging Fly, Poetry Ireland Review, Banshee, Berlin Lit, The Irish Times* and elsewhere. I also write frequent criticism on books and music and have worked as a copywriter for various creative projects. I am currently working on a novel.
+
 I have released two records: *True Love* (Tulle, 2023) and *Bath Time* (Trapped Animal, 2019, shortlisted for the RTE Choice Award.) I have toured internationally and have been commissioned to write new music for various visual art exhibitions, films and festivals. 
 
-My poetry and non-fiction has appeared in various publications, including *The Stinging Fly, Poetry Ireland Review, Banshee, Berlin Lit, The Irish Times* and elsewhere. I also write frequent criticism on books and music and have worked as a copywriter for various creative projects. I am currently working on a novel.
+I﻿ am a PhD candidate at Trinity College Dublin, where I'm writing about Fanny Howe.
 
 Full CV / bio available upon request.
 
