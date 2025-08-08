@@ -42,7 +42,7 @@ collections:
         multiple: false
         create: false
         required: false
-        options: ["Music", "Poetry", "Essays"]
+        options: ["Music", "Poetry", "Essay"]
   - label: "Pages"
     name: "pages"
     folder: "src/pages"
