@@ -6,16 +6,7 @@ permalink: about/
 ---
 ![Just a girl in the woods](/static/img/maija.jpeg "Maija Mäkelä")
 
-My name is Maija Makela, I am a writer, musician and researcher from Galway, Ireland. 
-
-
-
-I﻿ am a PhD candidate at Trinity College Dublin, where I'm writing about Fanny Howe.
-
-
-
-(I am always interested in hearing about potential projects and collaborations.) 
-
+Maija Makela is from Galway, Ireland. She spent most of her twenties working and touring as a musician, releasing two acclaimed albums, *Bath Time* (Trapped Animal records) and *True Love* (TULLE records.) Now she writes poetry, fiction and criticism, which has been published in *The Stinging Fly, Tolka, The Irish Times, Berlin Lit* and numerous other places. With her partner she co-edits the experimental literary journal [fallow. ](https://fallowmedia.com/)She currently lives in Dublin where she is pursuing a PhD on poetics of bewilderment.\
 \
 Find me at:
 
